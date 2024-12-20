@@ -1,1 +1,21 @@
 # week4-grid-lab
+# คำสั่ง git ที่ใช้งานทั้งหมด
+- git clone <your-repo-url>
+- git checkout -b development
+- git add .
+- git commit -m "init project"
+- git checkout -b feature/home-page
+- git add index.html
+- git commit -m "เพิ่มโครงสร้าง HTML พื้นฐาน"
+- git add css/style.css
+- git commit -m "เพิ่ม Grid Layout พื้นฐาน"
+- git add index.html
+- git commit -m "เพิ่มโครงสร้าง HTML พื้นฐาน"  
+- git add css/style.css 
+- git commit -m "เพิ่ม Media Queries สำหรับ Responsive Design"
+- git add index.html
+- git commit -m "เพิ่มเนื้อหาจำลองสำหรับทดสอบ Responsive"
+- git add css/style.css
+- git commit -m "เพิ่ม CSS Animations"
+- git add css/style.css
+- git commit -m "เพิ่ม Hover Effects"

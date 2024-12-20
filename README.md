@@ -35,6 +35,8 @@
 - git commit -m "เพิ่ม Filter Animations"
 - git add gallery.html
 - git commit -m "เชื่อมต่อ JavaScript"
+- git add README.md
+- git commit -m "คำสั่ง git"
 - git checkout development
 - git merge feature/home-page
 - git push origin development
